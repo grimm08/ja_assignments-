@@ -1,4 +1,4 @@
 'use strict';
-let name = prompt("What is your name?");
-console.log("Hello, " + name + "!");
-document.getElementById("t1").innerText = "Hello, " + name + "!";
+let nimi = prompt("What is your name?");
+console.log("Hello, " + nimi + "!");
+document.getElementById("t1").innerText = "Hello, " + nimi + "!";
